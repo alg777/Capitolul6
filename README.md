@@ -1,5 +1,4 @@
 # Capitolul6
-Tema capitolul6
 
 Tema capitolul 7
 
